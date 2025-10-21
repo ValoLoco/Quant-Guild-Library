@@ -15,10 +15,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **56.** [Quant Busts 3 Trading Myths with Math](https://youtu.be/wJfIk3VnubE)
-- **55.** [How to Build an Earnings Event Trading Dashboard in Python (Interactive Brokers API)](https://youtu.be/Xtth2F1xm5Q)
+- **57.** [Banks are Just Casinos (Quant Explains Why)](https://youtu.be/gG9Xsvgqvp4)
 
 **Previous:**
+- **56.** [Quant Busts 3 Trading Myths with Math](https://youtu.be/wJfIk3VnubE)
+- **55.** [How to Build an Earnings Event Trading Dashboard in Python (Interactive Brokers API)](https://youtu.be/Xtth2F1xm5Q)
 - **54.** [Quant vs. Discretionary Trading](https://youtu.be/3gblERSSHXI)
 - **53.** [Do Emojis Predict Stock Returns? | Quant Guild at UCSD's Triton Quantitative Trading](https://youtu.be/915-fyEM9l8)
 - **52.** [Quant Proves Trading Can't Be Taught (But You CAN Learn This)](https://youtu.be/uivlsPk0WLQ)
