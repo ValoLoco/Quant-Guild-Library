@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **58.** [Why Quant Models Break](https://youtu.be/brdG1TmsPlw)
-- **57.** [Banks are Just Casinos (Quant Explains Why)](https://youtu.be/gG9Xsvgqvp4)
+- **59.** [Brownian Motion for Quant Finance]()
 
 **Previous:**
+- **58.** [Why Quant Models Break](https://youtu.be/brdG1TmsPlw)
+- **57.** [Banks are Just Casinos (Quant Explains Why)](https://youtu.be/gG9Xsvgqvp4)
 - **56.** [Quant Busts 3 Trading Myths with Math](https://youtu.be/wJfIk3VnubE)
 - **55.** [How to Build an Earnings Event Trading Dashboard in Python (Interactive Brokers API)](https://youtu.be/Xtth2F1xm5Q)
 - **54.** [Quant vs. Discretionary Trading](https://youtu.be/3gblERSSHXI)
