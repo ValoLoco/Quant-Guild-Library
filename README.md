@@ -17,6 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
+- **64.** [Books that Made Me a Quant](https://youtu.be/izuZqWz-Dpg)
 - **63.** [Neural Networks for Quant Finance](https://youtu.be/n5acv8R-lN8)
 
 **Previous:**
